@@ -6,6 +6,8 @@ Very handy and done according to "KISS" principles. _William Ockham_ would be pr
 
 ### How to use:
 
+You will need [node.js](https://nodejs.org) and [npm](https://www.npmjs.com). After getting these two:
+
 1) Install dependencies:  
 `npm install gulp gulp-changed gulp-concat gulp-postcss gulp-sass gulp-terser gulp-webp postcss sass browser-sync cssnano`
 
