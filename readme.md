@@ -4,7 +4,8 @@ This is template for basic web projects like websites and landing pages that use
 
 Very handy and done according to "KISS" philosophy. _William Ockham_ would be proud.
 
-Howto use:
+### How to use:
+
 1) Install dependencies:  
 `npm install gulp gulp-changed gulp-concat gulp-postcss gulp-sass gulp-terser gulp-webp postcss sass browser-sync cssnano`
 
