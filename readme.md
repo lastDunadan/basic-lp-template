@@ -13,4 +13,4 @@ Howto use:
 `gulp`
 
 
-3) Remove unwanted teplate assets and hav fun with your own.
+3) Remove unwanted teplate assets and have fun with your own.
